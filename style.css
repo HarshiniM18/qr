@@ -1,0 +1,17 @@
+.logo{
+    height: 200px;
+    width: 100px;
+}
+.pageplain{
+    padding: 20px 200px 20px 200px;
+}
+h1{
+    font-family: 'Arial Round',sans-serif;
+    font-weight: 300;
+    color: #06f;
+    font-size: 4em;
+    text-align: center;
+}
+.h4{
+    text-align: center;
+}
